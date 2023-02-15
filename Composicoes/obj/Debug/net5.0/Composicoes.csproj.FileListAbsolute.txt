@@ -1,0 +1,16 @@
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\Composicoes\Composicoes\bin\Debug\net5.0\Composicoes.exe
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\Composicoes\Composicoes\bin\Debug\net5.0\Composicoes.deps.json
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\Composicoes\Composicoes\bin\Debug\net5.0\Composicoes.runtimeconfig.json
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\Composicoes\Composicoes\bin\Debug\net5.0\Composicoes.runtimeconfig.dev.json
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\Composicoes\Composicoes\bin\Debug\net5.0\Composicoes.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\Composicoes\Composicoes\bin\Debug\net5.0\Composicoes.pdb
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\Composicoes\Composicoes\obj\Debug\net5.0\Composicoes.csproj.AssemblyReference.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\Composicoes\Composicoes\obj\Debug\net5.0\Composicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\Composicoes\Composicoes\obj\Debug\net5.0\Composicoes.AssemblyInfoInputs.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\Composicoes\Composicoes\obj\Debug\net5.0\Composicoes.AssemblyInfo.cs
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\Composicoes\Composicoes\obj\Debug\net5.0\Composicoes.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\Composicoes\Composicoes\obj\Debug\net5.0\Composicoes.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\Composicoes\Composicoes\obj\Debug\net5.0\refint\Composicoes.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\Composicoes\Composicoes\obj\Debug\net5.0\Composicoes.pdb
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\Composicoes\Composicoes\obj\Debug\net5.0\Composicoes.genruntimeconfig.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão 7 - Enumerações e Composição - NÍVEL INTERMEDIÁRIO DO CURSO\Composicoes\Composicoes\obj\Debug\net5.0\ref\Composicoes.dll
