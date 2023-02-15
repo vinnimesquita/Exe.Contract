@@ -16,7 +16,7 @@ namespace Composicoes
             Console.Write("Name: ");
             string name = Console.ReadLine();
             Console.Write("Level: (Junior/MidLevel/Senior): ");
-            WorkerLevel level = Enum.Parse<WorkerLevel>(Console.ReadLine());// Converter enumerado em string.No caso convertendo o Console.ReadLine(), ou seja, oque o usuário digitar
+            WorkerLevel level = Enum.Parse<WorkerLevel>(Console.ReadLine());
             Console.Write("Base salary: ");
             double baseSalary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
@@ -42,8 +42,8 @@ namespace Composicoes
             Console.WriteLine();
             Console.Write("Enter month and year to calculate income (MM/YYYY): ");
             string monthAndYear = Console.ReadLine();
-            int month = int.Parse(monthAndYear.Substring(0, 2));// Extrair o mês. Substring vai pegar todo o string digitado na variavel monthAndYear(mes e ano exemplo: 06/2023) e vai recortar 2 caracteres a partir da posição 0.Precisamos disso para usar na função Income da classe Worker
-            int year = int.Parse(monthAndYear.Substring(3));// Extrair o ano. Substring vai pegar todo o string digitado na variavel monthAndYear(mes e ano exemplo: 06/2023) e vai recortar todos caracteres a partir da posição 3.Precisamos disso para usar na função Income da classe Worker
+            int month = int.Parse(monthAndYear.Substring(0, 2));
+            int year = int.Parse(monthAndYear.Substring(3));
             Console.WriteLine("Name : " + worker.Name);
             Console.WriteLine("Department: " + worker.Department.Name);
             Console.WriteLine("Income for " + monthAndYear + ": " + worker.Income(year, month).ToString("F2", CultureInfo.InvariantCulture));
